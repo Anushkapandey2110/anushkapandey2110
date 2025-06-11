@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">A passionate B.tech student from India. I love to learn and try new things and sometimes like to write about Cybersecurity.</h3>
 
-- 🌱 I’m currently learning **Machine Learning , Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web Development , Data Structures and Algorithms**
 
 - 📝 I regularly write articles on [https://cybermanipal.wearemist.in/](https://cybermanipal.wearemist.in/)
 
